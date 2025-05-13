@@ -1,16 +1,48 @@
-## Hi there 👋
+## Hi there 👋 I'm Patihan Suwannee!
 
-<!--
-**patihan23/patihan23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 A recent graduate in Business Computer from Rajamangala University of Technology Isan, with hands-on experience in web development projects.  
 
-Here are some ideas to get you started:
+🌐 Passionate about building websites and web applications using modern tools and frameworks.  
+Always eager to learn new technologies and improve my coding skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Skills & Technologies
+
+**Languages:**  
+HTML, CSS, JavaScript, PHP, Python, SQL  
+
+**Databases:**  
+MySQL, Firebase  
+
+**Frameworks:**  
+Bootstrap, CodeIgniter, React.js  
+
+**Tools:**  
+Visual Studio Code, XAMPP, FileZilla, Docker, Git  
+
+---
+
+### 📌 Projects
+
+- **Equipment Loan & Repair Notification System (2025)**  
+  Developed a system using PHP, HTML, CSS, JavaScript, Bootstrap, SMTP, and QR Code integration.
+
+- **Rabies Vaccination Storage System (2024)**  
+  Built with PHP, HTML, CSS, and Bootstrap Framework.
+
+- **Student Name Checking Website (2022)**  
+  Developed using PHP, HTML, CSS, and CodeIgniter Framework.
+
+---
+
+### 📫 Contact Me
+
+📱 082-339-2743  
+📧 patihan.su@outlook.com 
+🌐 [My Portfolio Website](http://www.patihan-space.wuaze.com)
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” 😄
+

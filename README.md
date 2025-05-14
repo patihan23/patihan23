@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patihan Suwannee</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7971E&size=26&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Fullstack+Enthusiast;Love+to+Build+and+Learn+New+Tech;Business+Computer+Graduate+from+RMUTI" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7971E&size=26&center=true&vCenter=true&width=600&lines=Web+Developer+%7C+Fullstack+Developer;Love+to+Build+and+Learn+New+Tech;Business+Computer+Graduate+from+RMUTI" />
 </p>
 
 ---
@@ -8,7 +8,7 @@
 ## 🚀 About Me  
 🎓 Business Computer Graduate from **Rajamangala University of Technology Isan**  
 🌐 Passionate about **Web Development**  
-💻 Always eager to learn new tech, tools, and frameworks  
+💻 Always eager to learn new technologies and frameworks
 
 ---
 
@@ -41,7 +41,7 @@
 
 ## 📌 Highlight Projects  
 
-- 🔧 **Equipment Loan & Repair Notification System (2025)**  
+- 🔧 **Equipment Borrowing and Repair Notification System (2025)**  
   Developed with PHP, HTML, CSS, JavaScript, Bootstrap, SMTP, and QR Code integration  
 
 - 💉 **Rabies Vaccination Storage System (2024)**  
@@ -55,15 +55,11 @@
 ## 📫 Contact Me  
 
 📱 082-339-2743  
-📧 patihan.su@outlook.com
+📧 patihan.su@outlook.com  
 🌐 [My Portfolio Website](http://www.patihan-space.wuaze.com)
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=patihan23&label=Profile%20views&color=0e75b6&style=flat" alt="patihan23" />
-</p>
-
-<p align="center"> 
-  ⚡ _"Code is like humor. When you have to explain it, it’s bad."_ 😄
 </p>

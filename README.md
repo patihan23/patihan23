@@ -54,50 +54,7 @@ const patihan = {
 
 ---
 
-## 🏆 Featured Projects
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔧 Equipment Management System</h3>
-        <div align="center">  
-          <img src="https://via.placeholder.com/300x200/6366f1/ffffff?text=Equipment+System" width="400" alt="Equipment System"/>
-          <br><br>
-          <p><strong>Equipment Borrowing & Repair System</strong> - Comprehensive management solution for tracking equipment loans and maintenance</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💉 Healthcare Solution</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/300x200/10b981/ffffff?text=Vaccination+Storage" width="400" alt="Vaccination Storage"/>
-          <br><br>
-          <p><strong>Rabies Vaccination Storage</strong> - Digital system for managing vaccination records and inventory</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🔍 Name Verification Tool</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/300x200/f59e0b/ffffff?text=Name+Checker" width="400" alt="Name Checker"/>
-          <br><br>
-          <p><strong>Name Checking Web Application</strong> - Quick and efficient name validation system</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🚀 More Projects Coming</h3>
-        <div align="center">
-          <img src="https://via.placeholder.com/300x200/8b5cf6/ffffff?text=Coming+Soon" width="400" alt="Coming Soon"/>
-          <br><br>
-          <p><strong>Stay tuned!</strong> - More exciting projects are in development</p>
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
----
 
 ## 📊 GitHub Analytics
 

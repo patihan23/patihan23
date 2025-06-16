@@ -15,10 +15,8 @@
 ```javascript
 const patihan = {
     education: "Business Computer Graduate (RMUTI)",
-    currentFocus: ["React", "Docker", "Clean Code"],
     role: "Passionate Fullstack Developer",
     location: "Thailand",
-    funFact: "I turn coffee into code ☕️"
 };
 ```
 
@@ -67,23 +65,6 @@ const patihan = {
 
 ---
 
-## 🎯 Current Goals
-
-```mermaid
-graph LR
-    A[🎯 2025 Goals] --> B[Master React Ecosystem]
-    A --> C[Docker Proficiency]
-    A --> D[Clean Architecture]
-    A --> E[Open Source Contributions]
-    
-    B --> B1[Next.js]
-    B --> B2[TypeScript]
-    C --> C1[Kubernetes]
-    D --> D1[Design Patterns]
-    E --> E1[Community Projects]
-```
-
----
 
 ## 🌟 Let's Connect!
 
